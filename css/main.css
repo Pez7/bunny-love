@@ -1,14 +1,59 @@
 body{
 	margin:0;
-	padding:0;
+	padding: 0;
+	overflow-x:hidden;
+	background-color: white;
 }
-li{
-	font-size: 14px;
-	padding:14px;
-	display: inline-block;
-	left:159px;
+nav{
+	background-color: #037F99;
+	height: 75px;
+}
+ul{
 	position: relative;
+	top:14px;
+	left:12px;
 }
-.dos.container{
-	background-color: black;
+.lista{
+	font-size: 14px;
+    padding: 5px;
+    display: inline-block;
+    left: 218px;
+    position: relative;
+    font-family: 'Prompt', sans-serif;
+}
+a{
+	color:white;
+}
+a:hover{
+	color:pink;
+}
+.first{
+	background-image: url(../img/img-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 58px;
+    height: 37%;
+}
+.caja{
+	height: 235px;
+    margin: 0 auto;
+    background-color: rgba(9,123,141,0.7);
+    position: relative;
+    bottom: 25px;
+}
+.caja h3{
+    font-family: 'Baloo Paaji', cursive;
+    font-size: 77px;
+    color: #F37673;
+    text-align: center;
+    margin-top: 30px;
+}
+.caja p{
+	font-family: 'Prompt', sans-serif;
+	color: white;
+    font-size: 19px;
+    padding: 14px;
+    text-align: center;
+    font-style: italic;
+
 }
