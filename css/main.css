@@ -35,7 +35,7 @@ a:hover{
     height: 37%;
 }
 .caja{
-	height: 235px;
+height: 235px;
     margin: 0 auto;
     background-color: rgba(9,123,141,0.7);
     position: relative;
@@ -55,5 +55,33 @@ a:hover{
     padding: 14px;
     text-align: center;
     font-style: italic;
-
+}
+img{
+	width: 100%;
+	height: auto;
+}
+.second{
+	padding: 20px;
+}
+.tale{
+	background-color: #037F99;
+    width: 250px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 22px;
+    height: 400px;
+}
+.tale h3{
+	font-family: 'Baloo Paaji', cursive;
+	text-align: center;
+    color: #F37673;
+    font-size: 16px;
+    padding: 13px;
+}
+.tale p{
+	margin: 10px;
+    padding: 5px;
+    color: white;
+    text-align: center;
+    font-size: 15px;
 }
