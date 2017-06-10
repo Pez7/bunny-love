@@ -55,11 +55,11 @@ a:hover{
 	background-color:#037F99;
 }
 .general{
+	background-color:#037F99;
 	display:none;
 	width: 100%;
-	background-color:#037F99;
 }
-.texto{
+.link{
 	font-family: 'Prompt', sans-serif;
 	color: white;
     font-weight: bold;
@@ -67,10 +67,8 @@ a:hover{
     height: 26px;
     margin-top: 12px;
     cursor: pointer;
-    border-bottom: 1px solid;
-    background-color:#037F99;
 }
-.texto:hover{
+.link:hover{
 	text-decoration: underline;
 }
 .oculto{
