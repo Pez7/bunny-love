@@ -85,3 +85,56 @@ img{
     text-align: center;
     font-size: 15px;
 }
+.third{
+	background-color:#037F99;
+	padding: 31px;
+}
+.third h3{
+	text-align: center;
+	color: #F37573;
+	font-family: 'Baloo Paaji', cursive;
+}
+.third h5{
+	font-weight: bold;
+	padding: 10px;
+}
+.third p{
+	padding: 10px;
+	font-family: 'Prompt', sans-serif;
+	font-size: 14px;
+}
+.third i {
+    color: #0355DC;
+    padding: 7px;
+    margin: 5px 23px;
+    border: 1px solid #fff;
+    border-radius: 100%;
+    background-color: #fff;
+}
+.texto{
+	border:20px solid #EAFAFB;
+	width: 70%;
+	border-radius:8px;
+	padding:20px;
+	margin-top:25px;
+}
+.conejo{
+	background-color:#EAFAFB;
+	margin:25px;
+}
+.conejo2{
+	background-color:#EAFAFB;
+	margin-right:30px;
+	margin-top: 10px;
+    height: 412px;
+}
+.conejo3{
+	background-color:#EAFAFB;
+	margin-top: 30px;
+	margin-right:30px;
+	
+}
+
+iframe{
+	width: 100%;
+}
