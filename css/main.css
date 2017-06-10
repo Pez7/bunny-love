@@ -42,6 +42,40 @@ a{
 a:hover{
 	color:pink;
 }
+#segundo{
+	background-color: #037F99;
+}
+#segundo i{
+	color: white;
+	font-size: 25px;
+	cursor: pointer;
+}
+.menu.flex-container{
+	padding-left: 18px;
+	background-color:#037F99;
+}
+.general{
+	display:none;
+	width: 100%;
+	background-color:#037F99;
+}
+.texto{
+	font-family: 'Prompt', sans-serif;
+	color: white;
+    font-weight: bold;
+    padding-left: 19px;
+    height: 26px;
+    margin-top: 12px;
+    cursor: pointer;
+    border-bottom: 1px solid;
+    background-color:#037F99;
+}
+.texto:hover{
+	text-decoration: underline;
+}
+.oculto{
+	display: none;
+}
 .first{
 	background-image: url(../img/img-1.jpg);
     background-repeat: no-repeat;
@@ -50,7 +84,7 @@ a:hover{
     height: 37%;
 }
 .caja{
-height: 235px;
+	height: 235px;
     margin: 0 auto;
     background-color: rgba(9,123,141,0.7);
     position: relative;
