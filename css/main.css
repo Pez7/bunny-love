@@ -8,6 +8,21 @@ nav{
 	background-color: #037F99;
 	height: 75px;
 }
+.bunny{
+	position: absolute;
+    top: 12px;
+    left: 136px;
+}
+.bunny h1{
+	color:white;
+	font-family: 'Baloo Paaji', cursive;
+	font-size: 30px;
+}
+.bunny span{
+	color:#F37673;
+	font-family: 'Baloo Paaji', cursive;
+	font-weight: bold;
+}
 ul{
 	position: relative;
 	top:14px;
@@ -134,7 +149,23 @@ img{
 	margin-right:30px;
 	
 }
-
 iframe{
 	width: 100%;
+}
+.fourth{
+	background-image: url(../img/bunny-head.png);
+    background-repeat: repeat-x;
+    background-size: 109px;
+    height: 112px;
+    margin: 18px;
+}
+footer{
+    background-color: #0355DC;
+    height: 76px;
+    border-top: #F37673 solid;
+    text-align: center;
+}
+footer p{
+    color: white;
+    padding: 10px;
 }
